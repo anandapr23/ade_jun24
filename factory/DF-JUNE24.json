@@ -1,0 +1,9 @@
+{
+	"name": "DF-JUNE24",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "14bff8f7-0f3d-4057-ad4d-1865eac0289c",
+		"tenantId": "8052396d-23ae-40f7-8405-c95f2f898d4e"
+	}
+}

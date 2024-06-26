@@ -1,0 +1,11 @@
+{
+	"name": "KV_AZURE",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://kv-ADEJUN24.vault.azure.net/"
+		}
+	}
+}

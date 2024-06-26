@@ -1,0 +1,19 @@
+{
+	"name": "manualtrigger_pipelline",
+	"properties": {
+		"activities": [
+			{
+				"name": "Wait1",
+				"type": "Wait",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"waitTimeInSeconds": 1
+				}
+			}
+		],
+		"annotations": [],
+		"lastPublishTime": "2024-06-25T04:17:22Z"
+	},
+	"type": "Microsoft.DataFactory/factories/pipelines"
+}

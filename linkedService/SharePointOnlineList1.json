@@ -1,0 +1,14 @@
+{
+	"name": "SharePointOnlineList1",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "SharePointOnlineList",
+		"typeProperties": {
+			"siteUrl": "http:s/sharepoint.com",
+			"tenantId": "8052396d-23ae-40f7-8405-c95f2f898d4e",
+			"servicePrincipalId": "testid",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQEIzMkIyNjgxLUIxQTUtNDMxNy05QUFFLUYxMjcxNjRDMkQyN18yMDk3YjZlZS1lNzc2LTQ5ODAtYmZmYi0xNzE1NTQwNGE2ZjUiDQp9"
+		}
+	}
+}
